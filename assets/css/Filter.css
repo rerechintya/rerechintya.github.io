@@ -1,0 +1,36 @@
+p.libre{
+    font-family:'Libre Caslon Text';
+    font-size:15px;
+}
+.line{
+    text-decoration: underline;
+    text-decoration-color: #0C99E9;
+    text-underline-offset: 10px;
+}
+/* .kanan{
+    margin-left: 7% ;
+} */
+.card>img{
+    margin:auto;
+    padding-top: 8%;
+    height: 270px;
+}
+.card-body>p{
+    margin-top: -10%;
+    margin-left: -3%;
+    font-family:'Libre Caslon Text';
+}
+.bintang{
+    margin-top: -12%;
+    margin-left: -3%;
+    margin-bottom: -8%;
+}
+.card{
+    margin-bottom: 20%;
+}
+.harga{
+    color: #066aa3;
+    
+}
+
+
